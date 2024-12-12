@@ -30,7 +30,7 @@ export const About: React.FC = () => {
 
         <div className="pt-4 border-t border-gray-200">
           <a
-            href="https://github.com/yourusername/todo-app"
+            href="https://github.com/lucasmarujo/todolist"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-emerald-600 hover:text-emerald-700"
