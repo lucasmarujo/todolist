@@ -1,6 +1,5 @@
 # Lista de Tarefas
-
-(Acesse o site aqui)[https://lucasmarujo.github.io/todolist/]
+[Acesse o site aqui](https://lucasmarujo.github.io/todolist/)
 
 Este é um projeto simples de lista de tarefas desenvolvido com Vite e React. O objetivo é fornecer uma interface fácil de usar para gerenciar suas tarefas diárias.
 
